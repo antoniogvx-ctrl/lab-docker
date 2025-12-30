@@ -1,0 +1,11 @@
+[0m[0K                                                                    [0;30;90;46;106mi[0m [0;36;96mInfo → [0m [0;30;46;106m U [0m In Us[0Ke
+[0;1mIMAGE[0m                                   [0;1mID[0m             [0;1mDISK USAGE[0m   [0;1mCONTENT SIZE[0m   [0;1mEXTR[0KA
+[0;34;94mantonioga20/lab-docker:v1[0m               f14b595e858b       1.19GB          338MB[0K
+[0;34;94mbiocontainers/blast:v2.2.31_cv2[0m         238717ec6983       2.99GB          831MB   [0;30;46;106m U [0m[0K
+[0;34;94mdocker/getting-started:latest[0m           d79336f4812b       73.9MB         21.4MB[0K
+[0;34;94mhello-world:latest[0m                      d4aaab6242e0       25.9kB         9.52kB   [0;30;46;106m U [0m[0K
+[0;34;94mpython:3.11-slim[0m                        0b2cfd528ad7        188MB         47.7MB   [0;30;46;106m U [0m[0K
+[0;34;94mquay.io/biocontainers/blast:2.12.0--pl5262h3289130_0[0m[0K
+                                        a7eb056f5ca6        399MB         94.1MB   [0;30;46;106m U [0m[0K
+[0;34;94mubuntu:latest[0m                           c35e29c94501        119MB         31.7MB   [0;30;46;106m U [0m[0K
+[0K
