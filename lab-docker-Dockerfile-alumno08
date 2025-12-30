@@ -1,0 +1,9 @@
+FROM python:3.11-slim
+
+RUN mkdir /app
+
+COPY reduc-operation-array-par-alumno08.ipynb /app/
+
+RUN pip install --no-cache-dir jupyter numpy numba
+
+CMD ["ipython", "/app/reduc-operation-array-par-alumno08.ipynb", "10**5"]
